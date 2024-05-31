@@ -11,7 +11,7 @@
 - 🧑‍🏫 Diseñadora Gráfica
 - 🧑‍🏫 Desarrolladora FullStack
 <br>
-- 🌱 Actualmente aprendiendo sobre Tailwind ...
+  🌱 Actualmente aprendiendo sobre Tailwind ...
 
 <!--
 **Danielaal3012/Danielaal3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
