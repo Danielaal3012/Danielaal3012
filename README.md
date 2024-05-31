@@ -1,4 +1,16 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://github.com/Danielaal3012/Danielaal3012/edit/main/README.md">Daniela Alvarez</a> 👋</h1>
+
+<img alt="Behance" src="https://img.shields.io/badge/https%3A%2F%2Fwww.behance.net%2Fdanielaal301286">
+<img alt="Linkedin" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdanielaal3012%2F?style=plastic">
+ 
+## Sobre mi
+
+- ⭐⭐⭐⭐⭐
+- 🧑‍🏫 Diseñadora Gráfica
+- 🧑‍🏫 Desarrolladora FullStack
+<br>
+- 🌱 Actualmente aprendiendo sobre Tailwind ...
 
 <!--
 **Danielaal3012/Danielaal3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
