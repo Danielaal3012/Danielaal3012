@@ -21,7 +21,6 @@
 - ⭐⭐⭐⭐⭐
 - 🧑‍🏫 Diseñadora Gráfica
 - 🧑‍🏫 Desarrolladora FullStack
-- 🌱 Actualmente aprendiendo sobre Tailwind ...
 <br>
 
  ## Programas y Lenguajes
@@ -29,7 +28,7 @@
  <table>
   <tr>
   <td width="50%">
-   <h3 align="center"> Programas que domino </h3>
+   <h3 align="center"> Programas que domino ✨ </h3>
    <div align="left">
     <p>
      <a href="" alt="Mysql" tatget="_blank">
@@ -87,7 +86,7 @@
   </td>
 
    <td width="50%">
-<h3 align="center">En proceso de aprendizaje</h3>
+<h3 align="center">En proceso de aprendizaje 🌱 </h3>
 <div align="left">
   
   <p>
