@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/Danielaal3012/Danielaal3012/edit/main/README.md">Daniela Alvarez</a> 👋</h1>
+<img src="https://i.imgur.com/lmxKT6C.png">
 
 <img alt="Behance" src="https://img.shields.io/badge/https%3A%2F%2Fwww.behance.net%2Fdanielaal301286">
 <img alt="Linkedin" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdanielaal3012%2F?style=plastic">
